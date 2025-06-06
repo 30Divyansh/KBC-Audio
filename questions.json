@@ -1,0 +1,97 @@
+[
+    {
+        "question": "Who wrote India's National Anthem?",
+        "options": ["Rabindranath Tagore", "Lal Bahadur Shastri", "Chetan Bhagat", "RK Narayan"],
+        "answer": "A"
+    },
+    {
+        "question": "Which city is known as the Pink City of India?",
+        "options": ["Banglore", "Maysore", "Jaipur", "Kochi"],
+        "answer": "C"
+    },
+    {
+        "question": "Which of the following is not a state of India?",
+        "options": ["Vrindachal", "Goa", "Jharkhand", "Chattisgarh"],
+        "answer": "A"
+    },
+    {
+        "question": "Which country is the largest by land area?",
+        "options": ["Canada", "China", "United States", "Russia"],
+        "answer": "D"
+    },
+    {
+        "question": "Which Indian city hosts Indian movie industry?",
+        "options": ["Goa", "Mumbai", "Chennai", "Calcutta"],
+        "answer": "B"
+    },
+    {
+        "question": "Taj Mahal was made of",
+        "options": ["Brick", "Marble", "Granite", "Sandstone"],
+        "answer": "B"
+    },
+    {
+        "question": "Which god is also known as ‘Gauri Nandan’?",
+        "options": ["Agni", "Indra", "Hanuman", "Ganesha"],
+        "answer": "D"
+    },
+    {
+        "question": "Where is India Gate located?",
+        "options": ["Agra", "Punjab", "Mumbai", "New Delhi"],
+        "answer": "D"
+    },
+    {
+        "question": "Who wrote Vande Mataram?",
+        "options": ["Sarat Chandra Chattopadhyay", "Rabindranath Tagore", "Bankim Chandra Chatterjee", "Ishwar Chandra Vidyasagar"],
+        "answer": "C"
+    },
+    {
+        "question": "Which city is known as the \"Silicon Valley Of India\"?",
+        "options": ["Delhi", "Mumbai", "Chennai", "Bangalore"],
+        "answer": "D"
+    },
+    {
+        "question": "When is the National Hindi Diwas celebrated?",
+        "options": ["13 September", "14 September", "14 July", "15 August"],
+        "answer": "B"
+    },
+    {
+        "question": "Which country is the largest producer of coffee in the world?",
+        "options": ["Brazil", "Colombia", "Vietnam", "Ethiopia"],
+        "answer": "A"
+    },
+    {
+        "question": "Which of the following countries is the world's largest producer of saffron?",
+        "options": ["Spain", "Iran", "India", "Greece"],
+        "answer": "B"
+    },
+    {
+        "question": "How many major religions are there in India?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "A"
+    },
+    {
+        "question": "Which country is the largest producer of coffee in the world?",
+        "options": ["Vietnam", "Colombia", "Ethiopia", "Brazil"],
+        "answer": "D"
+    },
+    {
+        "question": "Which one of the following places is famous for the Great Vishnu Temple?",
+        "options": ["Bordubar, Indonesia", "Bamiyan, Afghanistan", "Panja Sahib, Pakistan", "Ankorvat, Cambodia"],
+        "answer": "D"
+    },
+    {
+        "question": "Which Mughal Emperor was deported to Rangoon by the British?",
+        "options": ["Shah Jahan", "Bahadur Shah II", "Akbar Shah I", "Bahadur Shah I"],
+        "answer": "B"
+    },
+    {
+        "question": "The \"Doomsday Clock,\" maintained by the Bulletin of the Atomic Scientists, currently symbolizes the risk of global catastrophe. What specific event initially prompted its creation in 1947?",
+        "options": ["The Chernobyl disaster", "The first successful detonation of an atomic bomb", "The Cuban Missile Crisis", "The start of the Cold War"],
+        "answer": "B"
+    },
+    {
+        "question": "Which Indian monument was originally built as a victory tower to commemorate the defeat of the Khan of Khambhat?",
+        "options": ["Qutub Minar", "India Gate", "Charminar", "Vijay Stambha"],
+        "answer": "D"
+    }
+]
